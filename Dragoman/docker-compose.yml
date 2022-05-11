@@ -1,0 +1,9 @@
+version: "4.4"
+services:
+  sdmrdfizer:
+    image: sdmtib/sdmrdfizer:4.4.2
+    hostname: dragoman 
+    container_name: dragoman
+    domainname: eswc
+    volumes:
+      - ./:/data
