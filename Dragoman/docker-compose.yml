@@ -1,7 +1,7 @@
-version: "4.4"
+version: "1.0"
 services:
   sdmrdfizer:
-    image: sdmtib/sdmrdfizer:4.4.2
+    image: sdmtib/dragoman:kgc_eswc2022
     hostname: dragoman 
     container_name: dragoman
     domainname: eswc
