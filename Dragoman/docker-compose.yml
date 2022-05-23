@@ -1,9 +1,0 @@
-version: "1.0"
-services:
-  sdmrdfizer:
-    image: sdmtib/dragoman:kgc_eswc2022
-    hostname: dragoman 
-    container_name: dragoman
-    domainname: eswc
-    volumes:
-      - ./:/data
