@@ -65,7 +65,7 @@
 		rr:class sdmkgc:Drug
 	];
 	rr:predicateObjectMap [
-		rr:predicate sdmkgc:sentence;
+		rr:predicate sdmkgc:URL;
 		rr:objectMap [
 			rr:template "{URL}";
 		]
