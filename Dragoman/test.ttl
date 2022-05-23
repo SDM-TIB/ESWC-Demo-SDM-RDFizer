@@ -62,7 +62,7 @@
         rr:predicateObjectMap [
             rr:predicate ex:value;
             rr:objectMap [ 
-                rr:template "https://github.com/SDM-TIB/KGC/entity/{DrugName}" 
+                rr:template "https://github.com/SDM-TIB/KGC/entity/{DrugName}"; 
             ]
         ];   
     ]. 
